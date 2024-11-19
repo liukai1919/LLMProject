@@ -1,10 +1,11 @@
 # LLM Project
 
 ## Project Task
-(fill in details about your chosen project)
+Objective: Perform sentiment analysis on IMDb reviews to classify them as positive or negative.
+Purpose: Evaluate and improve sentiment classification models for better performance.
 
 ## Dataset
-(fill in details about the dataset you're using)
+Preprocessed IMDb review dataset (ready for use).
 
 ## Pre-trained Model
 (fill in details about the pre-trained model you selected)
