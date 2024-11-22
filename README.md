@@ -35,3 +35,9 @@
 8. **push_to_hub**: If set to `True`, the model is pushed to the Hugging Face Hub after training.
 
 These parameters directly impact the training process and the final performance of the model, so they should be adjusted based on the specific task and available resources.
+
+## Demo App
+- Use Streamlit to build a demo app.
+- Use the fine-tuned model to make predictions.
+- Deploy the app to the local machine.
+- Use `streamlit run /LLMProject/notebooks/app.py` to start the app.
